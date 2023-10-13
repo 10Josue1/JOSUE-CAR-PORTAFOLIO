@@ -429,7 +429,7 @@ body {
     }
 
     .certificate-description {
-        font-size: 10px; 
+        font-size: 12px;                                         /**/
         margin-bottom: 10px;
         margin: 2rem;
     }
@@ -1230,7 +1230,8 @@ body {
 
 /* Media Query 390x844 */
 @media (max-width: 390px) and (max-height: 844px) {
-  
+
+    
     .hero__title {
         font-size: 1.5rem;
     }
@@ -1240,11 +1241,11 @@ body {
     }
 
   knowledge__paragraph{
-        font-size: 12px;
+        font-size: 14px;
     }
 
     .certificate-description{
-        font-size: 10px;
+        font-size: 12px;
     }
 
     .price__features{
@@ -1375,7 +1376,7 @@ body {
     .knowledge__paragraph {
         line-height: 1.5; /* Altura de línea reducida */
         margin-bottom: 10px; /* Espacio inferior del párrafo reducido */
-        font-size: 12px; /* Tamaño de fuente reducido */
+        font-size: 14px; /* Tamaño de fuente reducido */
     }
 
     .subtitle1 {
@@ -1395,15 +1396,13 @@ body {
         font-size: 1rem;
     }
 
-
-  knowledge__paragraph{
-        font-size: 12px;
+     knowledge__paragraph{
+        font-size: 14px;
     }
 
     .certificate-description{
-        font-size: 10px;
+        font-size: 12px;
     }
-
     .price__features{
        font-size: 1rem;
     }
@@ -1440,7 +1439,7 @@ body {
     .knowledge__paragraph {
         line-height: 1.5;
         margin-bottom: 10px;
-        font-size: 12px;
+        font-size: 14px;
     }
 
     .subtitle1 {
@@ -1459,11 +1458,11 @@ body {
 
 
     knowledge__paragraph{
-        font-size: 12px;
+        font-size: 14px;
     }
 
     .certificate-description{
-        font-size: 10px;
+        font-size: 12px;
     }
 
 
