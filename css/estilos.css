@@ -437,7 +437,12 @@ body {
     
     .certificate-link{
         font-size: 12px;
-        
+
+    .certificate-description {
+   
+    margin-bottom: 10px;
+    margin: 1rem;
+    }
 
 }
 }
