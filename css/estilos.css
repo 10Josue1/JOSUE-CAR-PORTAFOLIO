@@ -429,7 +429,7 @@ body {
     }
 
     .certificate-description {
-        font-size: 10px;
+        font-size: 1rem; 
         margin-bottom: 10px;
         margin: 2rem;
     }
@@ -1084,6 +1084,12 @@ body {
     }
 }
 
+.price__features{
+    
+        font-size: 1rem;
+    }
+
+
 @media (max-width:600px) {
     .hero__title {
         font-size: 1.5rem;
@@ -1115,6 +1121,11 @@ body {
         font-size: 2rem;
     }
 
+    .price__features{
+         font-size: 1rem;
+        }
+
+        
     .testimony {
         --padding-container: 60px 0;
     }
@@ -1228,6 +1239,20 @@ body {
         font-size: 1rem;
     }
 
+
+    knowledge__paragraph{
+        font-size: 1rem;
+    }
+
+    .certificate-description{
+        font-size: 1rem;
+    }
+
+
+    .price__features{
+       font-size: 1rem;
+    }
+        
     .price__element {
         width: 90%;
     }
@@ -1239,6 +1264,9 @@ body {
 
     .price__price {
         font-size: 1.5rem;
+    }
+    .opcion{
+           font-size: 1rem;
     }
 
     .testimony {
@@ -1316,7 +1344,7 @@ body {
 
     .opcion {
         padding: 10px;
-        font-size: 0.9rem;
+        font-size: 1rem;
     }
 }
 
@@ -1349,7 +1377,7 @@ body {
     .knowledge__paragraph {
         line-height: 1.5; /* Altura de línea reducida */
         margin-bottom: 10px; /* Espacio inferior del párrafo reducido */
-        font-size: .8rem; /* Tamaño de fuente reducido */
+        font-size: 1rem; /* Tamaño de fuente reducido */
     }
 
     .subtitle1 {
@@ -1361,6 +1389,28 @@ body {
         margin-top: 10px; /* Espacio superior del botón ajustado */
         text-align: center; /* Centra el botón horizontalmente */
     }
+
+
+
+    
+    .about__paragraph {
+        font-size: 1rem;
+    }
+
+
+    knowledge__paragraph{
+        font-size: 1rem;
+    }
+
+    .certificate-description{
+        font-size: 1rem;
+    }
+
+
+    .price__features{
+       font-size: 1rem;
+    }
+        
 }
 
 
@@ -1393,7 +1443,7 @@ body {
     .knowledge__paragraph {
         line-height: 1.5;
         margin-bottom: 10px;
-        font-size: .8rem;
+        font-size: 1rem;
     }
 
     .subtitle1 {
@@ -1405,5 +1455,24 @@ body {
         margin-top: 10px;
         text-align: center;
     }
+
+     .about__paragraph {
+        font-size: 1rem;
+    }
+
+
+    knowledge__paragraph{
+        font-size: 1rem;
+    }
+
+    .certificate-description{
+        font-size: 1rem;
+    }
+
+
+    .price__features{
+       font-size: 1rem;
+    }
+        
 }
 
